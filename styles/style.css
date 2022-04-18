@@ -2,7 +2,9 @@
 ader{
     background-color: black;
 }
-
+body{
+    background-color: rgba(225,222,222,1);
+}
 header{
 
     background-color: rgb(206, 206, 206);
